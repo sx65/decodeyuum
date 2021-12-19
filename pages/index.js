@@ -65,7 +65,7 @@ export default function Home() {
 							src="/images/profile.gif"
 							alt="profile"
 							quality={100}
-							layout="fill"
+							layout="intrinsic"
 						/>
 					</div>
 
@@ -154,7 +154,7 @@ export default function Home() {
 									Editing index.js
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
-									Workspace: Dayifuscator
+									Workspace: dayifuscator
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
 									[NULL] elapsed
