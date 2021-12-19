@@ -64,7 +64,7 @@ export default function Home() {
 
 					<div className="top-[20px] left-[20px] flex absolute rounded-full border-[7px] border-[#FFFFFF] dark:border-[#18191C] w-[100px] h-[100px] justify-center items-center truncate">
 						<Image
-							src="/images/profile.gif"
+							src="/images/profile.png"
 							alt="profile"
 							quality={100}
 							layout="fill"
