@@ -62,7 +62,7 @@ export default function Home() {
 				>
 						<div className="bg-[#E7D4BA] w-full h-[4rem]" >
 					<Image
-							src="/images/profile.png"
+							src="/images/profile.gif"
 							alt="profile"
 							quality={100}
 							layout="fill"
