@@ -60,7 +60,15 @@ export default function Home() {
 					initial={{ y: 30, opacity: 0 }}
 					animate={{ y: 0, opacity: 1 }}
 				>
-						<div className="bg-[#E7D4BA] w-full h-[4rem]" />
+								<div className="bg-[#E7D4BA] w-full h-[4rem]" />
+						<Image
+							src="/images/profile.gif"
+							alt="profile"
+							quality={100}
+							layout="fill"
+						/>
+			
+						
 				
 				
 
