@@ -1,5 +1,5 @@
 export default function ABOUT(){
     return <div>
-        <h3>niggaa</h3>
+        <h3>print("works")</h3>
     </div>
 }
