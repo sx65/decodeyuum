@@ -1,25 +1,18 @@
-import Link from 'next/link'
+import { useState } from 'react'
+import Script from 'next/script'
 
-function Home() {
+export default function Home() {
+  const [stripe, setStripe] = useState(null)
+
   return (
-    <ul>
-      <li>
-        <Link href="/">
-          <a>Home</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/about">
-          <a>About Us</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/blog/hello-world">
-          <a>Blog Post</a>
-        </Link>
-      </li>
-    </ul>
+    <>
+      <Script
+        id="stripe-js"
+        src="https://js.stripe.com/v3/"
+        onLoad={() => {
+          setStripe({ stripe: window.Stripe('pk_test_12345') })
+        }}
+      />
+    </>
   )
 }
-
-export default Home
