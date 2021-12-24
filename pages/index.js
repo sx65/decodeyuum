@@ -90,15 +90,15 @@ export default function Home() {
 					<div className="bg-[#FFF] dark:bg-[#18191C] w-full h-full p-5 pt-[4.5rem] text-[#060607] dark:text-white">
 						<div className="pb-3">
 							<motion.span className="font-bold text-[20px] antialiased ">
-								sx65
+								lil sx65
 							</motion.span>
 							<span className="font-bold text-[20px] antialiased text-[#B9BBBE]">
-								#1996
+								#1124
 							</span>
 						</div>
 
 						<Image
-							src="/images/status.png"
+							src="/images/status.gif"
 							alt="profile"
 							width={50}
 							height={50}
@@ -114,7 +114,7 @@ export default function Home() {
 						<p className="whitespace-normal text-[#060607] dark:text-[#C0C1C2] text-[13px] leading-5">
 							- Full Stack Developer for tekgoz's Obfuscater, valorant chairs 
  							applications.<br></br>- Advanced Lua C++ C# Js Developer.<br></br>-
-							Experienced in Node.js.
+							Experienced in Node.js.<br></br>-Pop Smoke Da Best
 						</p>
 
 						<h1 className="text-[#4F5660] dark:text-[#B9BBBE] font-extrabold tracking-tighter text-[13px] my-2">
@@ -152,7 +152,7 @@ export default function Home() {
 									Editing index.js
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
-									Workspace: dayifuscator
+									Workspace: Dayilarph
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
 									[NULL] elapsed
