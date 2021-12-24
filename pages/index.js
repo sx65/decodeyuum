@@ -60,7 +60,7 @@ export default function Home() {
 					initial={{ y: 30, opacity: 0 }}
 					animate={{ y: 0, opacity: 1 }}
 				>
-								<div className="bg-[#371B44] w-full h-[4rem]" />
+								<div className="bg-[#36393f] w-full h-[4rem]" />
 					
 			
 						
