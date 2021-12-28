@@ -112,9 +112,7 @@ export default function Home() {
 							ABOUT ME
 						</h1>
 						<p className="whitespace-normal text-[#060607] dark:text-[#C0C1C2] text-[13px] leading-5">
-							- Full Stack Developer for tekgoz's Obfuscater, valorant chairs 
- 							applications.<br></br>- Advanced Lua C++ C# Js Developer.<br></br>-
-							Experienced in Node.js.<br></br>-Pop Smoke Da Best
+							- im retired from scripting.<br></br>- I purged myself from my darkness<br></br>- i lost my besto friend.<br></br>- Pop Smoke Da Best
 						</p>
 
 						<h1 className="text-[#4F5660] dark:text-[#B9BBBE] font-extrabold tracking-tighter text-[13px] my-2">
@@ -149,10 +147,10 @@ export default function Home() {
 									Visual Studio Code
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
-									Editing index.js
+									Editing theend.js
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
-									Workspace: Dayilarph
+									Workspace: aboutme
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
 									[NULL] elapsed
