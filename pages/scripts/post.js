@@ -1,18 +1,10 @@
-import { useState } from 'react'
-import Script from 'next/script'
+import React from 'react';
+import markdown from '../docs/script.md';
 
-export default function Home() {
-  const [stripe, setStripe] = useState(null)
-
+export default () => {
   return (
-    <>
-      <Script
-        id="stripe-js"
-        src="https://js.stripe.com/v3/"
-        onLoad={() => {
-          setStripe({ stripe: window.Stripe('pk_test_12345') })
-        }}
-      />
-    </>
-  )
-}
+    <div>
+      <pre>{markdown}</pre>
+    </div>
+  );
+};
