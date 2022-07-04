@@ -90,7 +90,7 @@ export default function Home() {
 					<div className="bg-[#FFF] dark:bg-[#18191C] w-full h-full p-5 pt-[4.5rem] text-[#060607] dark:text-white">
 						<div className="pb-3">
 							<motion.span className="font-bold text-[20px] antialiased ">
-								utkush
+								AnAnonymousCheerer
 							</motion.span>
 							<span className="font-bold text-[20px] antialiased text-[#B9BBBE]">
 								#1124
@@ -112,7 +112,7 @@ export default function Home() {
 							ABOUT ME
 						</h1>
 						<p className="whitespace-normal text-[#060607] dark:text-[#C0C1C2] text-[13px] leading-5">
-							- im retired from scripting.<br></br>- i love ghostlic's father<br></br>- C++ Lua C# Developer.<br></br>- Pop Smoke Da Best
+							- Hello, My Name is Aiden.<br></br>- I've been Coding for 4 Years<br></br>- C++ Lua C# Next.JS Developer.<br></br>- Pop Smoke Da Best
 						</p>
 
 						<h1 className="text-[#4F5660] dark:text-[#B9BBBE] font-extrabold tracking-tighter text-[13px] my-2">
@@ -147,10 +147,10 @@ export default function Home() {
 									Visual Studio Code
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
-									Editing sugardaddy.js
+									Editing index.js
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
-									Workspace: PuppyWare
+									Workspace: KittenassistV3Website
 								</h1>
 								<h1 className="text-[#060607] dark:text-[#C0C1C2] text-[13px]">
 									[NULL] elapsed
