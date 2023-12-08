@@ -17,7 +17,7 @@ export default function Home() {
 	return (
 		<div className={"w-full h-[100vh] dark:bg-[#36393F] bg-[#FFFFFF]"}>
 			<Head>
-				<title>decode - portfolio</title>
+				<title>funfact - gangboy</title>
 				<link rel="preconnect" href="https://fonts.googleapis.com" />
 				<link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
 				<link
@@ -85,10 +85,10 @@ export default function Home() {
 					<div className="bg-[#FFF] dark:bg-[#18191C] w-full h-full p-5 pt-[4.5rem] text-[#060607] dark:text-white">
 						<div className="pb-3">
 							<motion.span className="font-bold text-[20px] antialiased ">
-								decode
+								funfactisop
 							</motion.span>
 							<span className="font-bold text-[20px] antialiased text-[#B9BBBE]">
-								#2634
+								#0
 							</span>
 						</div>
 
